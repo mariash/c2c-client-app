@@ -1,0 +1,7 @@
+---
+applications:
+  - name: client-app
+    path: ./build/libs/client-0.0.1-SNAPSHOT.jar
+    instances: 1
+    memory: 600M
+    disk_quota: 256M
